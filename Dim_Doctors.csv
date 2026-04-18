@@ -1,0 +1,121 @@
+DoctorID,DoctorName,Specialty,Department
+DOC-001,Dr. Ashley Miller,Emergency Medicine,Wing A - Cardiac
+DOC-002,Dr. Michael Martinez,Emergency Medicine,ER East
+DOC-003,Dr. Lisa Johnson,Neurology,Oncology Care Center
+DOC-004,Dr. Michael Brown,Internal Medicine,Wing A - Cardiac
+DOC-005,Dr. David Davis,Neurology,Wing B - Neuro
+DOC-006,Dr. Robert Garcia,Emergency Medicine,ER East
+DOC-007,Dr. Jane Martinez,Cardiology,General Ward
+DOC-008,Dr. James Johnson,Pediatrics,Oncology Care Center
+DOC-009,Dr. John Miller,Orthopedics,Wing C - Ortho
+DOC-010,Dr. William Jones,Cardiology,Wing B - Neuro
+DOC-011,Dr. James Williams,Emergency Medicine,Wing C - Ortho
+DOC-012,Dr. Robert Davis,Cardiology,General Ward
+DOC-013,Dr. Ashley Martinez,Internal Medicine,General Ward
+DOC-014,Dr. Michael Brown,Neurology,Wing A - Cardiac
+DOC-015,Dr. Michael Miller,Emergency Medicine,Pediatric ICU
+DOC-016,Dr. David Rodriguez,Pediatrics,Wing A - Cardiac
+DOC-017,Dr. Anna Smith,Orthopedics,Oncology Care Center
+DOC-018,Dr. David Martinez,Oncology,Pediatric ICU
+DOC-019,Dr. David Davis,Orthopedics,General Ward
+DOC-020,Dr. Robert Davis,Internal Medicine,Pediatric ICU
+DOC-021,Dr. Emily Smith,Oncology,ER East
+DOC-022,Dr. John Williams,Cardiology,Pediatric ICU
+DOC-023,Dr. David Jones,Cardiology,ER East
+DOC-024,Dr. William Davis,Orthopedics,Wing B - Neuro
+DOC-025,Dr. Jane Jones,Emergency Medicine,Wing C - Ortho
+DOC-026,Dr. James Williams,Cardiology,Oncology Care Center
+DOC-027,Dr. Anna Brown,Emergency Medicine,ER East
+DOC-028,Dr. John Johnson,Orthopedics,ER East
+DOC-029,Dr. David Davis,Emergency Medicine,General Ward
+DOC-030,Dr. Jane Martinez,Internal Medicine,Wing C - Ortho
+DOC-031,Dr. Ashley Garcia,Oncology,General Ward
+DOC-032,Dr. Lisa Davis,Orthopedics,Wing C - Ortho
+DOC-033,Dr. Lisa Miller,Oncology,Pediatric ICU
+DOC-034,Dr. David Davis,Pediatrics,Pediatric ICU
+DOC-035,Dr. Ashley Johnson,Emergency Medicine,General Ward
+DOC-036,Dr. Sarah Rodriguez,Neurology,General Ward
+DOC-037,Dr. Ashley Martinez,Internal Medicine,Wing A - Cardiac
+DOC-038,Dr. John Jones,Emergency Medicine,Pediatric ICU
+DOC-039,Dr. Michael Martinez,Orthopedics,Wing A - Cardiac
+DOC-040,Dr. John Williams,Pediatrics,ER East
+DOC-041,Dr. Sarah Davis,Emergency Medicine,Wing A - Cardiac
+DOC-042,Dr. Ashley Williams,Neurology,ER East
+DOC-043,Dr. Sarah Williams,Pediatrics,ER East
+DOC-044,Dr. John Jones,Cardiology,Wing C - Ortho
+DOC-045,Dr. Sarah Miller,Pediatrics,Pediatric ICU
+DOC-046,Dr. William Garcia,Pediatrics,ER East
+DOC-047,Dr. John Jones,Emergency Medicine,ER East
+DOC-048,Dr. David Rodriguez,Oncology,ER East
+DOC-049,Dr. William Johnson,Orthopedics,Wing A - Cardiac
+DOC-050,Dr. Robert Brown,Neurology,Wing A - Cardiac
+DOC-051,Dr. William Williams,Cardiology,Wing B - Neuro
+DOC-052,Dr. Jane Martinez,Oncology,General Ward
+DOC-053,Dr. Michael Rodriguez,Emergency Medicine,Oncology Care Center
+DOC-054,Dr. Sarah Garcia,Oncology,Pediatric ICU
+DOC-055,Dr. William Jones,Cardiology,Pediatric ICU
+DOC-056,Dr. David Garcia,Emergency Medicine,Wing C - Ortho
+DOC-057,Dr. Jane Rodriguez,Emergency Medicine,Oncology Care Center
+DOC-058,Dr. Lisa Garcia,Internal Medicine,Wing B - Neuro
+DOC-059,Dr. Michael Smith,Oncology,ER East
+DOC-060,Dr. Michael Rodriguez,Oncology,ER East
+DOC-061,Dr. David Garcia,Cardiology,Wing B - Neuro
+DOC-062,Dr. Anna Miller,Cardiology,Wing C - Ortho
+DOC-063,Dr. Sarah Williams,Neurology,Oncology Care Center
+DOC-064,Dr. Jane Brown,Emergency Medicine,ER East
+DOC-065,Dr. Michael Rodriguez,Emergency Medicine,ER East
+DOC-066,Dr. Emily Brown,Oncology,Pediatric ICU
+DOC-067,Dr. Robert Martinez,Internal Medicine,Wing A - Cardiac
+DOC-068,Dr. Ashley Rodriguez,Cardiology,General Ward
+DOC-069,Dr. Robert Rodriguez,Oncology,Oncology Care Center
+DOC-070,Dr. Ashley Johnson,Neurology,ER East
+DOC-071,Dr. James Davis,Cardiology,Oncology Care Center
+DOC-072,Dr. Jane Johnson,Orthopedics,General Ward
+DOC-073,Dr. Michael Smith,Neurology,Oncology Care Center
+DOC-074,Dr. Anna Garcia,Orthopedics,General Ward
+DOC-075,Dr. David Garcia,Neurology,General Ward
+DOC-076,Dr. Michael Davis,Internal Medicine,ER East
+DOC-077,Dr. Lisa Rodriguez,Pediatrics,ER East
+DOC-078,Dr. Sarah Williams,Emergency Medicine,General Ward
+DOC-079,Dr. Ashley Jones,Cardiology,Pediatric ICU
+DOC-080,Dr. John Johnson,Neurology,Wing B - Neuro
+DOC-081,Dr. Emily Williams,Pediatrics,General Ward
+DOC-082,Dr. Ashley Williams,Emergency Medicine,Wing A - Cardiac
+DOC-083,Dr. Ashley Brown,Oncology,ER East
+DOC-084,Dr. David Williams,Emergency Medicine,Wing C - Ortho
+DOC-085,Dr. Emily Williams,Orthopedics,ER East
+DOC-086,Dr. Jane Miller,Pediatrics,General Ward
+DOC-087,Dr. Ashley Johnson,Oncology,ER East
+DOC-088,Dr. Jane Smith,Pediatrics,General Ward
+DOC-089,Dr. Anna Miller,Internal Medicine,Oncology Care Center
+DOC-090,Dr. John Brown,Internal Medicine,Wing C - Ortho
+DOC-091,Dr. Jane Smith,Orthopedics,Pediatric ICU
+DOC-092,Dr. William Rodriguez,Pediatrics,Wing C - Ortho
+DOC-093,Dr. Lisa Smith,Pediatrics,Wing C - Ortho
+DOC-094,Dr. Anna Johnson,Pediatrics,Wing A - Cardiac
+DOC-095,Dr. David Smith,Oncology,Wing A - Cardiac
+DOC-096,Dr. Jane Jones,Emergency Medicine,General Ward
+DOC-097,Dr. William Smith,Orthopedics,Wing A - Cardiac
+DOC-098,Dr. Jane Johnson,Emergency Medicine,Wing B - Neuro
+DOC-099,Dr. Lisa Brown,Oncology,Pediatric ICU
+DOC-100,Dr. Lisa Brown,Internal Medicine,Wing C - Ortho
+DOC-101,Dr. Michael Garcia,Emergency Medicine,Wing C - Ortho
+DOC-102,Dr. John Johnson,Emergency Medicine,Pediatric ICU
+DOC-103,Dr. Michael Jones,Internal Medicine,Oncology Care Center
+DOC-104,Dr. Lisa Garcia,Orthopedics,General Ward
+DOC-105,Dr. Sarah Williams,Neurology,Wing A - Cardiac
+DOC-106,Dr. Robert Martinez,Pediatrics,Pediatric ICU
+DOC-107,Dr. Emily Rodriguez,Emergency Medicine,Oncology Care Center
+DOC-108,Dr. Lisa Johnson,Cardiology,Wing C - Ortho
+DOC-109,Dr. Jane Martinez,Cardiology,ER East
+DOC-110,Dr. John Rodriguez,Orthopedics,Wing A - Cardiac
+DOC-111,Dr. Emily Brown,Emergency Medicine,ER East
+DOC-112,Dr. David Williams,Emergency Medicine,Wing C - Ortho
+DOC-113,Dr. Robert Smith,Neurology,Wing C - Ortho
+DOC-114,Dr. Ashley Johnson,Oncology,ER East
+DOC-115,Dr. Emily Rodriguez,Neurology,Wing C - Ortho
+DOC-116,Dr. Ashley Davis,Cardiology,Wing A - Cardiac
+DOC-117,Dr. Sarah Martinez,Cardiology,Oncology Care Center
+DOC-118,Dr. Michael Davis,Oncology,Wing B - Neuro
+DOC-119,Dr. William Johnson,Cardiology,Wing B - Neuro
+DOC-120,Dr. Michael Garcia,Pediatrics,Wing B - Neuro
